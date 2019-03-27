@@ -1,0 +1,38 @@
+html,
+body {
+  height: 100%;
+  padding: 5%;
+}
+
+.text {
+  margin: 5%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.author {
+  font-style: italic;
+}
+
+#getQuote {
+  margin: 2%;
+  color: white;
+  background-color: #3a1901;
+}
+
+#getQuote:hover {
+  color: #d3b896;
+}
+
+#getQuote:active {
+  color: #f9d4ac;
+}
+
+#tweet {
+  color: white;
+  margin: 2%;
+}
+
+#footer {
+  color: white;
+  text-align: right;
+}
